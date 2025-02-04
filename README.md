@@ -19,4 +19,4 @@ Say goodbye to endless scrolling and let Beacon illuminate your path to complian
 ![Screen Shot 2](https://raw.githubusercontent.com/utkrishtsharma/LLM_GPT_FEDERAL_NDA/main/Screen%20Shot%202025-02-03%20at%206.03.49%20PM.png)
 
 ### Image 3
-![IMG_7429](https://raw.githubusercontent.com/utkrishtsharma/LLM_GPT_FEDERAL_NDA/main/IMG_7429.jpg)
+![IMG_7429](https://github.com/utkrishtsharma/LLM_GPT_FEDERAL_NDA/blob/utkrishtsharma/IMG_7429.jpg)
